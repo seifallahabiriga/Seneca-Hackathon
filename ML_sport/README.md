@@ -6,7 +6,7 @@ This project analyzes and predicts sports match outcomes using machine learning.
 ## Folder Structure
 - `3jeja_LLM_version.ipynb`, `3jeja_V1.ipynb`, `3jeja_V2.ipynb`: Jupyter notebooks for data analysis and modeling.
 - `my_model.pkl`: Trained machine learning model.
-- `scrapped_data_sample/tweets.csv`: Sample of scraped tweets data.
+- `tweets.csv`: Sample of scraped tweets data.
 - `training_data/`: Contains CSV files with team stats, matchday results, and league standings.
 
 ## Difference Between 3jeja Files
