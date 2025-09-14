@@ -1,0 +1,509 @@
+id,text,timestamp,likes,side,event,sentiment
+1,Inter's black and blue stripes are iconic. Look great under the lights.,2023-06-10 19:35:00,145,Side B,none,Happy
+2,Inter's kit is a classic. #ForzaInter,2023-06-10 19:36:00,187,Side B,none,Happy
+3,The pre-match atmosphere gave me chills.,2023-06-10 19:40:00,187,Neutral,none,Excited
+4,Pre-match fireworks were insane. #UCLFinal,2023-06-10 19:41:00,234,Neutral,none,Excited
+5,The teams are in the tunnel! I can't handle this! #UCLFinal,2023-06-10 19:42:30,321,Neutral,none,Excited
+6,City's all-blue kit vs Inter's black/blue. This is gonna look slick. #UCLFinal,2023-06-10 19:43:15,155,Neutral,none,Excited
+7,So nervous I feel sick. #MCFC,2023-06-10 19:43:45,321,Side A,none,Nervous
+8,Nervous. So nervous. #MCFC,2023-06-10 19:44:00,233,Side A,none,Nervous
+9,The amount of empty seats? Disgraceful for a final. #UCLFinal,2023-06-10 19:44:10,287,Neutral,none,Angry
+10,Anthem time. Goosebumps. Every time.,2023-06-10 19:44:20,487,Neutral,none,Excited
+11,Haaland's focus is terrifying. Man looks ready to eat someone. #MCFC,2023-06-10 19:44:50,612,Side A,none,Excited
+12,Here we go! #UCLFinal,2023-06-10 19:45:00,456,Neutral,none,Excited
+13,It's happening! #UCLFinal,2023-06-10 19:45:02,567,Neutral,none,Excited
+14,Kickoff! Here we gooooo! #UCLFinal,2023-06-10 19:45:05,445,Neutral,none,Excited
+15,HALAANDDD!!! WHAT A START! 1-0! #MCFC #UCLFinal,2023-06-10 19:45:12,1420,Side A,Goal,Excited
+16,OMG OMG OMG GOAL GOAL GOAL,2023-06-10 19:45:15,891,Neutral,Goal,Shocked
+17,already? ffs #Inter,2023-06-10 19:45:30,178,Side B,Goal,Angry
+18,City pressing from the front immediately. No respect. #MCFC,2023-06-10 19:45:35,201,Side A,none,Excited
+19,That was so offside. VAR is a joke. #Inter,2023-06-10 19:45:45,324,Side B,Goal Cancelled,Angry
+20,Who was the defender sleeping? Acerbi? Awful. #Inter,2023-06-10 19:45:50,299,Side B,Goal,Angry
+21,Just tuned in. Did I miss anything?,2023-06-10 19:46:01,23,Neutral,none,Neutral
+22,Inter just can't get out. This press is insane.,2023-06-10 19:46:05,234,Side A,none,Excited
+23,I TOLD YOU ALL HAALAND IS THE BEST IN THE WORLD,2023-06-10 19:46:10,422,Side A,none,Happy
+24,Erling Haaland is a machine. Cold. #MCFC,2023-06-10 19:46:30,567,Side A,none,Happy
+25,Celebrated so hard I spilled my drink. Worth it. #MCFC,2023-06-10 19:46:40,187,Side A,Goal,Happy
+26,The City press is suffocating. Inter can't get out of their half. #UCLFinal,2023-06-10 19:46:50,215,Side A,none,Excited
+27,IT'S IN! HAALAND! WAIT... OFFSIDE?,2023-06-10 19:46:55,1567,Side A,Goal Cancelled,Shocked
+28,"The psychological blow of scoring so early cannot be overstated. City, who are already favorites, get a dream start. For Inter, that's the worst possible scenario. They had to scrap their game plan instantly. Massive test of character for them now. #UCLFinal",2023-06-10 19:46:55,421,Neutral,none,Neutral
+29,VAR taking forever. making me nervous.,2023-06-10 19:47:05,233,Neutral,none,Nervous
+30,No flag! It's a goal! GET IN!!! #MCFC,2023-06-10 19:47:15,2100,Side A,Goal,Excited
+31,lautaro pls equalize quickly cmonnn,2023-06-10 19:47:22,198,Side B,none,Excited
+32,It's gonna be ruled out. I can feel it. #Inter,2023-06-10 19:47:25,145,Side B,Goal Cancelled,Nervous
+33,"As an Inter fan, the most frustrating thing isn't going a goal down early; it's the nature of it. Acerbi was caught ball-watching for a split second, and that's all Haaland needs. You simply cannot switch off against this team. Painful. #ForzaInter",2023-06-10 19:47:35,398,Side B,none,Angry
+34,VAR check... my heart is in my mouth. #UCLFinal,2023-06-10 19:47:40,876,Neutral,none,Nervous
+35,Inter's high line was a suicide mission against Haaland. #MCFC,2023-06-10 19:47:50,489,Side A,none,Angry
+36,They're checking the build up. Please don't ruin this.,2023-06-10 19:48:00,543,Neutral,none,Nervous
+37,GOAL STANDS! LET'S GOOOO!!!,2023-06-10 19:48:05,876,Side A,Goal,Excited
+38,My pizza just arrived. Perfect timing for the final. #UCLFinal,2023-06-10 19:48:10,45,Neutral,none,Happy
+39,GOAL STANDS! I'M SHAKING! #MCFC,2023-06-10 19:48:20,2987,Side A,Goal,Excited
+40,Rigged. Absolutely rigged. #UCLFinal,2023-06-10 19:48:28,92,Neutral,none,Angry
+41,De Bruyne's vision is from another planet. That pass! #MCFC,2023-06-10 19:48:35,678,Side A,none,Excited
+42,De Bruyne's pass was filthy. Absolutely filthy.,2023-06-10 19:48:40,412,Side A,none,Excited
+43,What a ball from Rodri to start it. Incredible. #MCFC,2023-06-10 19:48:50,432,Side A,none,Excited
+44,"The atmosphere in the pub here in Manchester is absolutely electric. Strangers are hugging, beers are flying everywhere. That early goal has just united everyone in sheer, unadulterated joy. This is what football is all about. #MCFC",2023-06-10 19:48:50,789,Side A,none,Excited
+45,Now please don't concede immediately city,2023-06-10 19:49:10,134,Side A,none,Nervous
+46,Acerbi was sleeping. Absolutely criminal defending. #Inter,2023-06-10 19:49:20,398,Side B,none,Angry
+47,Haaland's first touch 😍,2023-06-10 19:49:30,289,Side A,none,Happy
+48,Celebrations in the Etihad are insane right now! #MCFC,2023-06-10 19:49:40,567,Side A,none,Excited
+49,Ederson almost messed that up lol #sweatykeeper,2023-06-10 19:49:50,155,Side A,none,Shocked
+50,Haaland's first touch was pure class. #MCFC,2023-06-10 19:50:00,289,Side A,none,Happy
+51,Bastoni's passing is a joy to watch. #Inter,2023-06-10 19:50:05,201,Side B,none,Happy
+52,This ref is blind. Clear foul on Barella. #Inter,2023-06-10 19:50:15,201,Side B,Foul,Angry
+53,Need to settle down now. Don't get complacent. #MCFC,2023-06-10 19:50:25,187,Side A,none,Neutral
+54,"Interesting tactical observation: City are deliberately forcing Inter to build up through their left side, essentially funneling the play towards Dimarco and Bastoni, but overloading that side to win it back. Pep's chess match has begun. #UCLFinal",2023-06-10 19:50:30,654,Neutral,none,Neutral
+55,Inter finally getting a foot on the ball. #ForzaInter,2023-06-10 19:51:00,145,Side B,none,Excited
+56,Pep's bald head is shining brighter than my future.,2023-06-10 19:51:05,1200,Side A,none,Neutral
+57,Grealish gets fouled every time he gets the ball.,2023-06-10 19:51:20,165,Side A,Foul,Angry
+58,Barella is everywhere. What an engine. #Inter,2023-06-10 19:51:45,276,Side B,none,Happy
+59,"My non-football fan girlfriend just asked me 'Why does the guy with the shiny head look so angry when they're winning?' I tried to explain Pep's perpetual state of focused rage, but I don't think she gets it. #PepGonnaPep #UCLFinal",2023-06-10 19:51:50,2100,Side A,none,Neutral
+60,Dumfries is just booting it upfield. No plan. #Inter,2023-06-10 19:52:10,143,Side B,none,Angry
+61,Grealish is getting murdered out there. Ref? #MCFC,2023-06-10 19:52:25,321,Side A,Foul,Angry
+62,Yellow card for Dimarco. Deserved; late tackle.,2023-06-10 19:52:37,87,Side B,Foul,Neutral
+63,Dimarco deserved that yellow. Late and clumsy. #Inter,2023-06-10 19:53:05,112,Side B,Foul,Neutral
+64,Why is Grealish always falling over? #MCFC,2023-06-10 19:53:10,176,Side A,none,Angry
+65,"Lukaku is offering absolutely nothing as a target man. His touch is letting him down, and he's not holding the ball up to bring others into play. Dzeko's experience might be needed sooner rather than later to give Inter an outlet. #Inter",2023-06-10 19:53:20,432,Side B,none,Angry
+66,Need more from Lautaro. He's invisible. #Inter,2023-06-10 19:53:40,211,Side B,none,Angry
+67,Haaland's physicality is too much for their defenders. #MCFC,2023-06-10 19:53:50,345,Side A,none,Excited
+68,The atmosphere is electric! Wish I was in Istanbul! #UCLFinal,2023-06-10 19:54:00,312,Neutral,none,Excited
+69,This is why the Premier League is the best. #MCFC,2023-06-10 19:54:25,287,Side A,none,Happy
+70,Lukaku anonymous. Need to get him in the game. #Inter,2023-06-10 19:54:35,234,Side B,none,Angry
+71,Handball??? How is that not a review?!,2023-06-10 19:54:40,432,Neutral,none,Angry
+72,"The contrast in styles is beautiful. City's suffocating, possessive, geometric football vs. Inter's more robust, transitions-based, physical approach. It's a classic clash of philosophies on the biggest stage. #UCLFinal",2023-06-10 19:55:00,876,Neutral,none,Neutral
+73,My dog is scared of all my shouting. #UCLFinal,2023-06-10 19:55:05,321,Neutral,none,Neutral
+74,Onana's calm with the ball at his feet is impressive. #Inter,2023-06-10 19:55:15,198,Side B,none,Happy
+75,Stream keeps buffering. FML.,2023-06-10 19:55:20,56,Neutral,none,Angry
+76,Barella is trying to do everything himself. #Inter,2023-06-10 19:55:50,167,Side B,none,Neutral
+77,City's passing accuracy is ridiculous. 95% so far. #MCFC,2023-06-10 19:56:00,287,Side A,none,Excited
+78,Inter's defense is looking shaky. Need to wake up.,2023-06-10 19:56:18,143,Side B,none,Angry
+79,Barella tried his heart out. Respect. #Inter,2023-06-10 19:56:20,201,Side B,none,Happy
+80,How is that a foul on Haaland? Soft.,2023-06-10 19:56:30,154,Side A,Foul,Angry
+81,Inter just booting it long. No game plan. #Inter,2023-06-10 19:56:45,176,Side B,none,Angry
+82,HAALAND HATTRICK INCOMING I'M CALLING IT NOW,2023-06-10 19:57:05,299,Side A,none,Excited
+83,KDB finds space and... just wide! So close! #MCFC,2023-06-10 19:57:30,456,Side A,none,Shocked
+84,Inter's midfield is non-existent. Where's Calhanoglu?,2023-06-10 19:57:50,198,Side B,none,Angry
+85,That was the chance to kill it. #MCFC,2023-06-10 19:57:55,165,Side A,none,Angry
+86,KDB's through balls are a work of art. #MCFC,2023-06-10 19:58:15,309,Side A,none,Excited
+87,"Dzeko coming on. Good move, need experience up front. #ForzaInter",2023-06-10 19:58:30,231,Side B,Substitution,Neutral
+88,"Substitution for Inter: Dzeko ON, Lukaku OFF.",2023-06-10 19:58:32,88,Side B,Substitution,Neutral
+89,Lautaro finally gets a run! Corner! #ForzaInter,2023-06-10 19:58:45,199,Side B,none,Excited
+90,Cleared. City's set-piece defense is solid. #MCFC,2023-06-10 19:59:05,87,Side A,none,Neutral
+91,Who's the guy in the green jacket on the sideline?,2023-06-10 19:59:10,11,Neutral,none,Neutral
+92,Lukaku hasn't touched the ball in 10 minutes. #Inter,2023-06-10 19:59:45,245,Side B,none,Angry
+93,Dumfries is a liability in defense. #Inter,2023-06-10 19:59:50,143,Side B,none,Angry
+94,Walker's recovery pace is just not fair. #MCFC,2023-06-10 20:00:30,265,Side A,none,Excited
+95,This game is boring now. City just parking the bus.,2023-06-10 20:00:55,67,Side A,none,Angry
+96,Half the team is already time-wasting. Annoying. #MCFC,2023-06-10 20:01:10,154,Side A,none,Angry
+97,Is it just me or is the referee whistle-happy?,2023-06-10 20:01:20,118,Neutral,none,Angry
+98,The ref is falling for every single dive. #UCLFinal,2023-06-10 20:01:50,201,Neutral,none,Angry
+99,SHOCKING MISS BY LAUTARO! HOW?!,2023-06-10 20:02:10,1876,Side B,Crucial miss,Shocked
+100,HAHAHAHAHA LAUTARO ARE YOU SERIOUS???,2023-06-10 20:02:30,2100,Side B,Crucial miss,Angry
+101,My stream died right as Lautaro was through on goal. The buffering circle of death was literally a fate worse than seeing the miss. I had to rely on the screams from my neighbor's apartment to know what happened. Agony. #Inter,2023-06-10 20:02:35,1200,Side B,Crucial miss,Angry
+102,Inter growing into the game. Finally. #ForzaInter,2023-06-10 20:02:35,233,Side B,none,Excited
+103,He had an open goal. My grandma would've scored that. #Inter,2023-06-10 20:02:45,842,Side B,Crucial miss,Angry
+104,Akanji's tackle on Lautaro was crucial. #MCFC,2023-06-10 20:02:50,334,Side A,none,Excited
+105,I'm actually in shock. How did he miss that? #Inter,2023-06-10 20:02:55,987,Side B,Crucial miss,Shocked
+106,Lautaro Martinez 😭😭😭,2023-06-10 20:03:00,521,Side B,none,Angry
+107,WHAT A CHANCE! HOW HAS HE MISSED THAT?! LAUTARO! #Inter,2023-06-10 20:03:05,2456,Side B,Crucial miss,Angry
+108,"Lautaro Martinez, bottle job. #UCLFinal",2023-06-10 20:03:20,432,Side B,Crucial miss,Angry
+109,He had the whole goal to aim at! Unbelievable! #UCLFinal,2023-06-10 20:03:25,1123,Side B,Crucial miss,Shocked
+110,City got so lucky there. Game should be 1-1.,2023-06-10 20:03:40,411,Side A,none,Angry
+111,That's a sitter. A proper sitter. #Inter,2023-06-10 20:03:50,876,Side B,Crucial miss,Angry
+112,Ederson with the game saving presence. Didn't even need to touch it.,2023-06-10 20:04:00,455,Side A,Save,Happy
+113,"That Lautaro miss will be analysed for years. From an Inter perspective, it's a catastrophic failure in a key moment. From a neutral perspective, it's a stunning example of how pressure can warp reality for even the best players. #UCLFinal",2023-06-10 20:04:10,945,Neutral,Crucial miss,Shocked
+114,Ederson was rooted. We got away with one. #MCFC,2023-06-10 20:04:15,654,Side A,Save,Excited
+115,That's the moment. That's the moment we lost. #Inter,2023-06-10 20:04:40,567,Side B,Crucial miss,Angry
+116,That miss will be in his nightmares. #Inter,2023-06-10 20:04:45,543,Side B,Crucial miss,Angry
+117,"People will blame Lautaro, and he has to score, but let's give some credit to Akanji. His recovery pace and the sheer pressure he applied forced Lautaro to take the shot a microsecond earlier than he wanted. A defender's play. #MCFC",2023-06-10 20:05:05,1123,Side A,none,Excited
+118,Game should be 1-1. We are so lucky. #MCFC,2023-06-10 20:05:05,432,Side A,none,Excited
+119,Rodri is a wall in midfield. Player of the match so far. #MCFC,2023-06-10 20:05:15,378,Side A,none,Excited
+120,Dias organizing the defense like a general. #MCFC,2023-06-10 20:05:40,321,Side A,none,Excited
+121,City's defense is so organized. Ruben Dias is a general.,2023-06-10 20:05:50,278,Side A,none,Excited
+122,Inter's heads have dropped after that miss. #Inter,2023-06-10 20:06:20,198,Side B,none,Angry
+123,We need a miracle. #ForzaInter,2023-06-10 20:06:30,189,Side B,none,Excited
+124,Corner for Inter... This is it!,2023-06-10 20:06:50,215,Side B,none,Excited
+125,Cleared by Dias. Great defending.,2023-06-10 20:07:05,99,Side A,none,Happy
+126,My heart can't take this. #UCLFinal,2023-06-10 20:08:00,157,Neutral,none,Nervous
+127,The commentator won't stop talking about that miss. We get it.,2023-06-10 20:08:30,76,Neutral,none,Angry
+128,Onana's distribution is top class. #Inter,2023-06-10 20:12:00,234,Side B,none,Happy
+129,Onana's long throws are a weapon. #Inter,2023-06-10 20:13:00,176,Side B,none,Excited
+130,"The amount of times John Stones stepped out of defense into midfield, breaking Inter's lines and starting attacks, was a tactical nuance that probably went over many heads. He's been reinvented this season. #MCFC",2023-06-10 20:15:00,889,Side A,none,Excited
+131,"The passion from Simone Inzaghi on the touchline was incredible to see. He was living every single moment, urging his team forward. You can tell how much this meant to him. He has rebuilt his reputation magnificently this season. #Inter",2023-06-10 20:30:00,723,Side B,none,Excited
+132,"Half time thoughts: City are controlling the game but look vulnerable to the quick counter. Inter have had the best chance. The narrative should be 1-0, but it feels like it should be 1-1. This is far from over. Massive team talk from Inzaghi incoming. #UCLFinal",2023-06-10 20:45:00,765,Neutral,none,Neutral
+133,Half-time. 1-0. City dominating but Inter had that huge chance.,2023-06-10 20:47:22,221,Neutral,none,Neutral
+134,Halftime. 1-0. My nerves are shot. #UCLFinal,2023-06-10 20:47:40,345,Neutral,none,Nervous
+135,Halftime. Need a strong drink. #UCLFinal,2023-06-10 20:47:50,201,Neutral,none,Neutral
+136,Time to get another beer. #UCLFinal,2023-06-10 20:48:10,89,Neutral,none,Neutral
+137,Pep will not be happy. We should be 2-0 up. #MCFC,2023-06-10 20:48:30,267,Side A,none,Angry
+138,Pep will rip into them for not getting a second. #MCFC,2023-06-10 20:49:01,204,Side A,none,Angry
+139,Inzaghi needs to give Lautaro a hug and a slap. #Inter,2023-06-10 20:49:15,411,Side B,none,Neutral
+140,Inzaghi better have a legendary team talk ready.,2023-06-10 20:49:20,165,Neutral,none,Neutral
+141,The xG must be crazy. Inter should be level. #UCLFinal,2023-06-10 20:50:00,156,Neutral,none,Neutral
+142,Pep is drawing tactics on a napkin probably. #MCFC,2023-06-10 20:50:10,443,Side A,none,Neutral
+143,Inzaghi needs to change something. We're not in this. #Inter,2023-06-10 20:50:35,176,Side B,none,Neutral
+144,That fan running was the highlight of the half 😂,2023-06-10 20:51:00,789,Neutral,none,Neutral
+145,The xG must be wild. Inter should be ahead.,2023-06-10 20:51:05,112,Neutral,none,Neutral
+146,Anyone else see that fan running on the pitch? 😂,2023-06-10 20:51:20,789,Neutral,none,Neutral
+147,That fan on the pitch had more urgency than our attack. #Inter,2023-06-10 20:52:00,654,Side B,none,Angry
+148,"The key battle in the second half will be Inter's wing-backs vs. City's full-backs. Dumfries and Dimarco need to provide width and quality service, but they're also up against Grealish and Silva tracking back. It's a huge physical demand. #UCLFinal",2023-06-10 20:55:30,456,Neutral,none,Neutral
+149,How many times did Grealish get fouled? Felt like 20. #MCFC,2023-06-10 20:58:00,234,Side A,Foul,Angry
+150,Grealish was fouled into next week. Ref was blind. #MCFC,2023-06-10 20:59:30,278,Side A,Foul,Angry
+151,Second half starting! Cmon City! Finish them!,2023-06-10 21:02:15,145,Side A,none,Excited
+152,Second half. Let's finish this. Come on City! #MCFC,2023-06-10 21:02:45,234,Side A,none,Excited
+153,"Second half. No changes. Cmon lads, turn it around. #ForzaInter",2023-06-10 21:03:05,234,Side B,none,Excited
+154,Foden coming on. Big move. Mahrez wasn't it today. #MCFC,2023-06-10 21:05:20,321,Side A,Substitution,Neutral
+155,Foden is on for Mahrez. Interesting sub.,2023-06-10 21:05:40,120,Side A,Substitution,Neutral
+156,Foden on. Big move by Pep. #MCFC,2023-06-10 21:06:05,187,Side A,Substitution,Neutral
+157,"The fact that Phil Foden, a local Manchester boy, came on in a Champions League final to help his team see out the win is the stuff of dreams. You can't write a better script than that. #MCFC",2023-06-10 21:06:30,1998,Side A,none,Excited
+158,Mahrez was poor today. Good sub.,2023-06-10 21:06:40,221,Side A,none,Angry
+159,Immediate impact from Foden. Great energy. #MCFC,2023-06-10 21:06:50,198,Side A,none,Excited
+160,Foden's first touch is sublime.,2023-06-10 21:07:10,96,Side A,none,Happy
+161,City's bench is ridiculous. Foden comes on as a sub!?,2023-06-10 21:07:30,432,Side A,none,Excited
+162,Foden on the bench shows our depth. #MCFC,2023-06-10 21:08:00,432,Side A,none,Excited
+163,Immediately more energy from Inter. Better start.,2023-06-10 21:08:15,143,Side B,none,Excited
+164,The composure from the younger City players like Foden and Akanji in such a high-pressure environment speaks volumes about the culture Pep Guardiola has built. They play without fear. #MCFC,2023-06-10 21:08:20,732,Side A,none,Excited
+165,Brozovic down. This is a huge blow for Inter. #Inter,2023-06-10 21:09:50,345,Side B,Injury,Angry
+166,Brozovic down. Looks like he's in pain. #Inter,2023-06-10 21:10:05,432,Side B,Injury,Angry
+167,Brozovic clutching his ankle. This is not good. #Inter,2023-06-10 21:10:20,321,Side B,Injury,Angry
+168,Hope it's not an ACL. Looks bad. #UCLFinal,2023-06-10 21:10:30,278,Neutral,Injury,Nervous
+169,Hope Brozovic is ok. Doesn't look good.,2023-06-10 21:10:40,287,Neutral,Injury,Nervous
+170,Hope it's not serious. Never want to see players injured. #UCLFinal,2023-06-10 21:11:10,288,Neutral,Injury,Nervous
+171,He's walking off. Looks like a knee injury.,2023-06-10 21:11:30,154,Side B,Injury,Angry
+172,Play stops. Looks bad. #Inter,2023-06-10 21:12:00,155,Side B,Injury,Neutral
+173,"Brozovic going off is a devastating blow for Inter. He's the metronome, the one who connects defense to attack. Calhanoglu is a different type of player – more direct. It changes their entire midfield dynamic. #Inter",2023-06-10 21:12:20,589,Side B,Injury,Angry
+174,Calhanoglu on. Can he be the hero? #ForzaInter,2023-06-10 21:13:05,189,Side B,Substitution,Excited
+175,"Substitution: Calhanoglu ON, Brozovic OFF. #Inter",2023-06-10 21:13:15,87,Side B,Substitution,Neutral
+176,Calhanoglu warming up. Big shoes to fill. #Inter,2023-06-10 21:13:40,98,Side B,none,Neutral
+177,Walker's pace saved them so many times. #MCFC,2023-06-10 21:14:00,289,Side A,none,Excited
+178,Game has lost all flow. Stop-start. #UCLFinal,2023-06-10 21:14:30,112,Neutral,none,Angry
+179,Game has lost its rhythm after that injury.,2023-06-10 21:15:00,45,Neutral,none,Angry
+180,Game's gone. Too many stoppages.,2023-06-10 21:15:30,45,Neutral,none,Angry
+181,Walker was immense today. Pace for days. #MCFC,2023-06-10 21:15:45,287,Side A,none,Excited
+182,Stones yellow. That was stupid. #MCFC,2023-06-10 21:16:30,143,Side A,Foul,Angry
+183,YELLOW CARD. Stones for a late challenge.,2023-06-10 21:16:50,112,Side A,Foul,Neutral
+184,Stones yellow. That was clumsy. #MCFC,2023-06-10 21:17:05,132,Side A,Foul,Neutral
+185,Stones now suspended for the next game. Risky.,2023-06-10 21:17:20,88,Side A,none,Neutral
+186,"You can see the fatigue setting in on both sides. Passes are going astray, first touches are heavier. This is where the depth of the squad and the mentality of champions comes into play. Who wants it more? #UCLFinal",2023-06-10 21:18:00,321,Neutral,none,Neutral
+187,DZEKO! OH MY GOD! SO CLOSE! #Inter,2023-06-10 21:18:45,987,Side B,none,Excited
+188,Dzeko's shot! Just wide! So close! #ForzaInter,2023-06-10 21:19:05,476,Side B,none,Excited
+189,The curl on that shot! Inches wide! #ForzaInter,2023-06-10 21:19:10,456,Side B,none,Excited
+190,DZEKO! SO CLOSE! The veteran almost did it! #Inter,2023-06-10 21:19:15,567,Side B,none,Excited
+191,Ederson was beaten there. Wow.,2023-06-10 21:19:20,233,Side A,none,Shocked
+192,"Dzeko's introduction has genuinely changed the game for Inter. He's holding the ball up, bringing others into play, and that shot that whistled wide has given his team and the fans a massive belief boost. This is now a proper fight. #ForzaInter",2023-06-10 21:19:30,678,Side B,none,Excited
+193,Ederson was beaten. We are living on a knife edge. #MCFC,2023-06-10 21:19:35,398,Side A,none,Nervous
+194,The San Siro would have erupted. #ForzaInter,2023-06-10 21:19:40,234,Side B,none,Excited
+195,City living on the edge. #MCFC,2023-06-10 21:20:10,199,Side A,none,Nervous
+196,This is torture. Please just score Inter.,2023-06-10 21:20:30,198,Side B,none,Nervous
+197,City are shithousing now. Taking forever on goal kicks. #MCFC,2023-06-10 21:20:45,265,Side A,none,Angry
+198,Dzeko made a difference when he came on. #Inter,2023-06-10 21:20:50,234,Side B,none,Excited
+199,Dzeko changed the game. #Inter,2023-06-10 21:21:10,234,Side B,none,Excited
+200,Bernardo Silva's work rate is insane. #MCFC,2023-06-10 21:21:20,312,Side A,none,Excited
+201,Grealish holding the ball in the corner. Smart. #MCFC,2023-06-10 21:21:30,222,Side A,none,Neutral
+202,City are time-wasting. Disgraceful.,2023-06-10 21:21:45,165,Side A,none,Angry
+203,Annoying but effective. #UCLFinal,2023-06-10 21:22:00,145,Neutral,none,Neutral
+204,Bernardo Silva is such a diver. Pathetic.,2023-06-10 21:22:10,121,Side A,none,Angry
+205,Silva's work rate is unmatched. Ran his socks off. #MCFC,2023-06-10 21:22:25,421,Side A,none,Excited
+206,The timewasting is embarrassing. Just play football. #UCLFinal,2023-06-10 21:22:40,201,Neutral,none,Angry
+207,Grealish just held the ball in the corner for a minute. Smart but annoying.,2023-06-10 21:23:15,178,Side A,none,Angry
+208,Grealish's dribbling in the corner killed the game. #MCFC,2023-06-10 21:23:40,387,Side A,none,Angry
+209,The referee was too lenient with the time-wasting. #UCLFinal,2023-06-10 21:24:20,265,Neutral,none,Angry
+210,Calhanoglu's set pieces are dangerous every time. #Inter,2023-06-10 21:25:00,198,Side B,none,Excited
+211,Hakan Calhanoglu's passing range was a threat every time he got on the ball in the second half. He was trying to make things happen and was the main reason Inter controlled large parts of the second half. A classy performance. #Inter,2023-06-10 21:25:15,567,Side B,none,Excited
+212,Calhanoglu's corners were dangerous. #Inter,2023-06-10 21:26:00,165,Side B,none,Excited
+213,"The last 10 minutes have been pure torture. City are sitting deeper than they have all season. It's not 'parking the bus' per se, but it's a controlled retreat. Every Inter cross into the box feels like it's in slow motion. #MCFC",2023-06-10 21:35:00,499,Side A,none,Nervous
+214,The referee lost control of the game in the last 20 mins.,2023-06-10 21:36:00,154,Neutral,none,Angry
+215,"Ederson's distribution was off tonight, but his command of his area in the final moments, coming out to punch clear cross after cross, was absolutely crucial. He's a goalkeeper who wins you titles with those actions. #MCFC",2023-06-10 21:36:40,678,Side A,none,Excited
+216,Ref lost the plot at the end. #UCLFinal,2023-06-10 21:37:00,198,Neutral,none,Angry
+217,"The tactical discipline from City in the final 15 minutes was a masterclass in game management. They knew exactly when to foul, when to slow the game down, and when to clear their lines. It wasn't pretty, but it was incredibly effective. #MCFC",2023-06-10 21:40:10,876,Side A,none,Neutral
+218,The tension is unbearable. #UCLFinal,2023-06-10 21:40:30,222,Neutral,none,Nervous
+219,The tension is unbearable. #UCLFinal,2023-06-10 21:41:00,199,Neutral,none,Nervous
+220,5 minutes added time. Here we go! #UCLFinal,2023-06-10 21:42:15,567,Neutral,none,Nervous
+221,5 minutes added! My heart can't take this! #MCFC,2023-06-10 21:42:25,432,Side A,none,Nervous
+222,5 minutes!? Where did they get 5 from? #MCFC,2023-06-10 21:42:40,234,Side A,none,Angry
+223,5 minutes! Come on Inter! One chance! #ForzaInter,2023-06-10 21:42:55,543,Side B,none,Excited
+224,My anxiety is through the roof.,2023-06-10 21:43:01,211,Neutral,none,Nervous
+225,5 minutes! Let's go! We can do this! #ForzaInter,2023-06-10 21:43:05,322,Side B,none,Excited
+226,Watching Kyle Walker use his insane pace to recover in the 88th minute and cleanly tackle an Inter attacker who was through on the wing was arguably as important as any goal-saving block. His experience was vital tonight. #MCFC,2023-06-10 21:43:30,955,Side A,none,Excited
+227,I can't watch. Someone tell me what happens.,2023-06-10 21:44:05,187,Neutral,none,Nervous
+228,THE POST! I CAN'T BELIEVE IT! DZEKO! #Inter,2023-06-10 21:44:15,3215,Side B,none,Shocked
+229,INTER HIT THE POST! DZEKO! UNLUCKY!,2023-06-10 21:44:22,3210,Side B,none,Shocked
+230,THE POST! I DON'T BELIEVE IT! THE UNLUCKiest TEAM! #Inter,2023-06-10 21:44:35,2987,Side B,none,Shocked
+231,The crossbar is still shaking. What a moment.,2023-06-10 21:44:40,987,Neutral,none,Excited
+232,The sound of the post will haunt me forever. #Inter,2023-06-10 21:44:50,1124,Side B,none,Nervous
+233,"When Dzeko's header hit the post, I actually felt my heart stop. The sound of the ball striking the aluminum is the most gut-wrenching sound in all of sports. The fine margins between immortality and heartbreak. #Inter #UCLFinal",2023-06-10 21:44:50,2876,Side B,none,Nervous
+234,The sound of the post will haunt my dreams.,2023-06-10 21:45:00,876,Neutral,none,Nervous
+235,I can't believe it. It's not meant to be. #Inter,2023-06-10 21:45:10,452,Side B,none,Angry
+236,So unlucky. So so unlucky. #ForzaInter,2023-06-10 21:45:20,876,Side B,none,Angry
+237,"The term 'mentality monsters' has been used for other teams, but tonight City earned it. To withstand that second-half onslaught, to see the ball hit the post, and to still not break requires an incredible collective strength. #MCFC",2023-06-10 21:45:30,1332,Side A,none,Excited
+238,So close yet so far. 😭 #ForzaInter,2023-06-10 21:45:30,654,Side B,none,Angry
+239,It's just meant to be for City. #MCFC,2023-06-10 21:45:40,654,Side A,none,Neutral
+240,This is the longest 5 minutes of my life. #MCFC,2023-06-10 21:45:50,211,Side A,none,Nervous
+241,Longest 5 minutes of my life. #MCFC,2023-06-10 21:46:05,234,Side A,none,Nervous
+242,It's written in the stars for City. #MCFC,2023-06-10 21:46:10,432,Side A,none,Neutral
+243,Blow the whistle ref! Please! #MCFC,2023-06-10 21:46:30,421,Neutral,none,Nervous
+244,Blow the whistle ref! My heart can't take it! #MCFC,2023-06-10 21:46:40,321,Neutral,none,Nervous
+245,So close. So painfully close. #Inter,2023-06-10 21:47:00,444,Side B,none,Nervous
+246,FULL TIME! MANCHESTER CITY WIN THE CHAMPIONS LEAGUE!,2023-06-10 21:47:05,5420,Side A,none,Excited
+247,Agony. Pure agony. #Inter,2023-06-10 21:47:08,444,Side B,none,Angry
+248,FULL TIME! WE'VE DONE IT! CHAMPIONS OF EUROPE! #MCFC,2023-06-10 21:47:10,5421,Side A,none,Excited
+249,AND IT'S ALL OVER! MANCHESTER CITY ARE CHAMPIONS OF EUROPE!,2023-06-10 21:47:20,4987,Side A,none,Excited
+250,History made. Incredible. #MCFC,2023-06-10 21:47:25,543,Side A,none,Excited
+251,HISTORY FOR CITY! TRIPLE COMPLETE! 🏆🏆🏆,2023-06-10 21:47:30,4211,Side A,none,Excited
+252,History. Pure history. #MCFC,2023-06-10 21:47:35,654,Side A,none,Excited
+253,HISTORY! THE TREBLE IS OURS! 🏆🏆🏆 #MCFC,2023-06-10 21:47:40,4321,Side A,none,Excited
+254,"The silence in the Inter end when the final whistle blew was deafening. Then, it was replaced by applause. They know their team gave everything. There's no shame in losing like that. #ForzaInter",2023-06-10 21:47:40,1455,Side B,none,Neutral
+255,WE'VE DONE IT! WE'VE FINALLY DONE IT! 😭🔵 #MCFC,2023-06-10 21:47:50,3215,Side A,none,Excited
+256,Inter fans still singing. Pure class. 👏,2023-06-10 21:47:55,654,Side B,none,Happy
+257,"Full time. No words. Just a hollow feeling. This team fought with everything they had. They left every ounce of themselves on that pitch. We were so, so close. I'm incredibly proud and utterly devastated at the same time. #ForzaInter ❤️🖤",2023-06-10 21:48:00,3456,Side B,none,Angry
+258,The Inter fans are still singing. Respect. 👏,2023-06-10 21:48:00,543,Side B,none,Happy
+259,I'm actually crying. Tears of joy. #MCFC,2023-06-10 21:48:05,1987,Side A,none,Happy
+260,We were robbed. #Inter,2023-06-10 21:48:10,198,Side B,none,Angry
+261,We were cheated. #Inter,2023-06-10 21:48:15,198,Side B,none,Angry
+262,Heartbroken for Inter. They gave it their all. 😢,2023-06-10 21:48:20,1567,Side B,none,Angry
+263,The dream is over. For now. #ForzaInter,2023-06-10 21:48:30,278,Side B,none,Angry
+264,Absolutely devastated. We deserved more. #Inter,2023-06-10 21:48:35,1456,Side B,none,Angry
+265,Absolute scenes. Tears in my eyes.,2023-06-10 21:48:40,1543,Neutral,none,Nervous
+266,The dream is over. For now. #ForzaInter,2023-06-10 21:48:45,278,Side B,none,Angry
+267,This is the best day of my life. No cap. #MCFC,2023-06-10 21:48:50,512,Side A,none,Happy
+268,Best day of my life. #MCFC,2023-06-10 21:48:55,512,Side A,none,Happy
+269,Lukaku was a ghost tonight. Worst on pitch. #Inter,2023-06-10 21:49:05,321,Side B,none,Angry
+270,Pep Guardiola is a footballing god. #MCFC,2023-06-10 21:49:05,1123,Side A,none,Happy
+271,Pep Guardiola is a genius. No doubt about it.,2023-06-10 21:49:15,1124,Side A,none,Happy
+272,Gutted. Absolutely gutted. We deserved more. #Inter,2023-06-10 21:49:30,1298,Side B,none,Angry
+273,Lukaku was useless. Offered nothing. #Inter,2023-06-10 21:49:35,345,Side B,none,Angry
+274,Heartbreaking. Just heartbreaking. #Inter,2023-06-10 21:49:40,295,Side B,none,Angry
+275,Heartbroken. #Inter,2023-06-10 21:49:45,295,Side B,none,Angry
+276,Haaland's dream come true. #MCFC,2023-06-10 21:49:50,876,Side A,none,Happy
+277,The curse is finally over. #MCFC,2023-06-10 21:49:55,421,Side A,none,Happy
+278,Haaland gets his first UCL. Well deserved.,2023-06-10 21:50:00,876,Side A,none,Happy
+279,A draw would have been a fair result. #UCLFinal,2023-06-10 21:50:05,287,Neutral,none,Neutral
+280,The curse is over! #MCFC,2023-06-10 21:50:05,421,Side A,none,Happy
+281,Respect to Inter. They fought like lions. #UCLFinal,2023-06-10 21:50:20,876,Side B,none,Happy
+282,"The image of Rodri collapsing to his knees in tears after the final whistle says it all. The pressure, the release, the sheer emotion of achieving the ultimate dream. That's a man who has given everything for this club. #MCFC",2023-06-10 21:50:20,2450,Side A,none,Nervous
+283,The curse is broken! We are European Champions! #MCFC,2023-06-10 21:50:25,765,Side A,none,Happy
+284,The wait continues... #Inter,2023-06-10 21:50:40,176,Side B,none,Nervous
+285,"Inzaghi got his substitutions spot on today. Bringing on Dzeko and later Calhanoglu gave Inter a new lease of life. On another night, with a bit more luck, his changes would have been hailed as genius. He got his game plan right. #Inter",2023-06-10 21:50:45,602,Side B,none,Happy
+286,The curse is broken! #MCFC,2023-06-10 21:50:45,654,Side A,none,Happy
+287,The players look devastated. Feel for them. #Inter,2023-06-10 21:50:50,333,Side B,none,Angry
+288,A draw would've been fair over 90 mins. #UCLFinal,2023-06-10 21:50:55,321,Neutral,none,Neutral
+289,The wait goes on... #Inter,2023-06-10 21:51:00,176,Side B,none,Nervous
+290,Respect to Inter. They fought until the end. #Respect,2023-06-10 21:51:05,654,Side B,none,Happy
+291,The treble is complete. Immortal team. #MCFC,2023-06-10 21:51:10,1122,Side A,none,Happy
+292,The players are crushed. Feel for them. #Inter,2023-06-10 21:51:15,333,Side B,none,Angry
+293,This one hurts. A lot. #Inter,2023-06-10 21:51:20,234,Side B,none,Angry
+294,Celebrating with a pint! Get in! #Champions,2023-06-10 21:51:30,234,Side A,none,Happy
+295,The best team won. Simple as. #UCLFinal,2023-06-10 21:51:40,276,Neutral,none,Neutral
+296,Where are the haters now? Silence. #MCFC,2023-06-10 21:51:50,543,Side A,none,Happy
+297,This really hurts. #Inter,2023-06-10 21:52:00,234,Side B,none,Angry
+298,Haaland's first UCL. The first of many.,2023-06-10 21:52:00,765,Side A,none,Happy
+299,Respect to Inter. They were the better team in the second half.,2023-06-10 21:52:10,543,Side B,none,Happy
+300,Proud of the boys. Left it all out there. #Inter,2023-06-10 21:52:30,321,Side B,none,Happy
+301,The best team won over the season. #UCLFinal,2023-06-10 21:52:40,267,Neutral,none,Neutral
+302,"Congratulations, City. Well deserved. #Respect",2023-06-10 21:53:00,456,Side A,none,Happy
+303,Where are the City haters now? Quiet.,2023-06-10 21:53:05,432,Side A,none,Angry
+304,So proud of the effort. #Inter,2023-06-10 21:53:15,321,Side B,none,Happy
+305,Pep Guardiola is the greatest manager of all time. Don't @ me.,2023-06-10 21:53:20,987,Side A,none,Happy
+306,"Congrats, City. Deserved. #Respect",2023-06-10 21:53:30,456,Side A,none,Happy
+307,They've shown the trophy 😍,2023-06-10 21:53:40,433,Side A,none,Happy
+308,Onana was brilliant. Our best player. #Inter,2023-06-10 21:54:00,367,Side B,none,Happy
+309,The trophy is so shiny. 😍 #MCFC,2023-06-10 21:54:10,432,Side A,none,Happy
+310,Onana was our best player. World class. #Inter,2023-06-10 21:54:25,367,Side B,none,Happy
+311,The players are crying. What a moment. 😢,2023-06-10 21:54:40,654,Neutral,none,Nervous
+312,The players are lifting the trophy! Iconic.,2023-06-10 21:55:00,765,Side A,none,Happy
+313,The better team lost tonight. #Inter,2023-06-10 21:55:10,276,Side B,none,Angry
+314,"As a neutral, that was a fantastic final. It had everything: an early goal, a shocking miss, a tactical battle, a late injury, a woodwork strike, and relentless tension until the very last second. Football won tonight. #UCLFinal",2023-06-10 21:55:15,1876,Neutral,none,Happy
+315,Gundogan lifting the trophy. Captain. Leader. Legend. #MCFC,2023-06-10 21:55:20,987,Side A,none,Happy
+316,The better team lost. Football is cruel. #Inter,2023-06-10 21:55:30,276,Side B,none,Angry
+317,Gundogan lifting the trophy. Captain fantastic.,2023-06-10 21:55:40,421,Side A,none,Happy
+318,Gundogan lifting the big ears. What a season for him. #MCFC,2023-06-10 21:55:55,543,Side A,none,Happy
+319,The tears from the players. This means everything. #MCFC,2023-06-10 21:56:00,765,Side A,none,Nervous
+320,This is what money can buy. #plastic,2023-06-10 21:56:20,87,Neutral,none,Angry
+321,Oil money blah blah. Enjoy the win. #MCFC,2023-06-10 21:56:35,321,Side A,none,Angry
+322,Oil money bought this. Nothing more. Plastic club.,2023-06-10 21:56:45,123,Neutral,none,Angry
+323,Shut up about the money. Every top team spends. Enjoy the football.,2023-06-10 21:57:15,321,Neutral,none,Angry
+324,Cry more. Enjoy the L. We're the best in the world. #MCFC,2023-06-10 21:57:30,276,Side A,none,Angry
+325,Grealish is gonna be so hungover tomorrow 😂 #MCFC,2023-06-10 21:57:45,2100,Side A,none,Neutral
+326,Already planning the parade in Manchester!,2023-06-10 21:58:00,198,Side A,none,Happy
+327,Grealish is absolutely smashed already 😂,2023-06-10 21:58:20,2100,Side A,none,Neutral
+328,Manchester is blue! Forever blue! #MCFC,2023-06-10 21:58:30,432,Side A,none,Happy
+329,Can't wait for the documentary on this season.,2023-06-10 21:58:50,145,Neutral,none,Excited
+330,Pep's tactics were spot on. Neutralized them completely. #MCFC,2023-06-10 21:59:05,556,Side A,none,Happy
+331,The parade is going to be insane. Manchester will be blue for weeks.,2023-06-10 21:59:10,321,Side A,none,Happy
+332,KDB finally has his UCL medal. So deserved. #MCFC,2023-06-10 21:59:20,654,Side A,none,Happy
+333,KDB was quiet today. Still a legend.,2023-06-10 21:59:30,267,Side A,none,Happy
+334,Forza Inter sempre. We'll be back. ❤️🖤,2023-06-10 22:00:00,432,Side B,none,Happy
+335,Rodri. Man of the Match. No question. #MCFC,2023-06-10 22:00:05,543,Side A,none,Happy
+336,Rodri has to be man of the match. Absolute rock.,2023-06-10 22:00:10,412,Side A,none,Happy
+337,KDB finally gets his UCL medal. So deserved.,2023-06-10 22:00:30,654,Side A,none,Happy
+338,The weight of history is now lifted. No more 'Can they win the Champions League?' questions. This City team has cemented its legacy forever. They are no longer the nearly-men; they are the kings of Europe. #MCFC,2023-06-10 22:00:30,1345,Side A,none,Happy
+339,Forza Inter always. ❤️🖤,2023-06-10 22:00:45,432,Side B,none,Happy
+340,Akanji was a rock. What a signing. #MCFC,2023-06-10 22:00:50,321,Side A,none,Happy
+341,Dias was a wall. MOTM for me. #MCFC,2023-06-10 22:01:00,345,Side A,none,Happy
+342,"Well, time to go to bed. Work tomorrow. 😴",2023-06-10 22:01:05,56,Neutral,none,Neutral
+343,Rodri was MOTM for me. Controlled everything.,2023-06-10 22:01:15,432,Side A,none,Happy
+344,Proud of this team. We'll be back. #ForzaInter,2023-06-10 22:01:30,456,Side B,none,Happy
+345,Our fans were incredible all night. 👏,2023-06-10 22:01:40,321,Side B,none,Happy
+346,Dias is a colossus. Man of the match for me. #MCFC,2023-06-10 22:01:50,322,Side A,none,Happy
+347,What a game of football. This is why it's the beautiful game.,2023-06-10 22:02:00,289,Neutral,none,Happy
+348,Premier League dominance. 💙 #MCFC,2023-06-10 22:02:15,234,Side A,none,Happy
+349,The Inter fans outsang them all night. 👏,2023-06-10 22:02:20,321,Side B,none,Happy
+350,Shoutout to Akanji. Was a rock today. #MCFC,2023-06-10 22:02:40,234,Side A,none,Happy
+351,Watching the Haaland goal on repeat. Perfection. #MCFC,2023-06-10 22:03:00,345,Side A,none,Happy
+352,Premier League supremacy. 💪,2023-06-10 22:03:20,154,Side A,none,Happy
+353,We'll be back. This hurts but I'm proud. #ForzaInter,2023-06-10 22:03:50,456,Side B,none,Happy
+354,Pep's interview is so emotional. Love it. #MCFC,2023-06-10 22:04:00,432,Side A,none,Nervous
+355,Inter Milan will be back. Mark my words. #ForzaInter,2023-06-10 22:04:15,233,Side B,none,Happy
+356,They played with heart. #Inter,2023-06-10 22:04:20,287,Side B,none,Happy
+357,Haaland: 'This is just the start.' Scary. #MCFC,2023-06-10 22:04:45,567,Side A,none,Excited
+358,"The narrative that City 'bought' the trophy is so lazy. Money is an enabler, but it doesn't teach tactics, it doesn't build team spirit, and it doesn't handle pressure. This victory is a testament to a long-term project, incredible coaching, and player development. #MCFC",2023-06-10 22:05:00,1543,Side A,none,Angry
+359,The Premier League has conquered Europe. Again.,2023-06-10 22:05:00,333,Side A,none,Happy
+360,Already seeing 'AGUEROOOOOO' but for Haaland. Love it. #MCFC,2023-06-10 22:05:20,456,Side A,none,Happy
+361,The memes about Lautaro are brutal but funny. #UCLFinal,2023-06-10 22:05:30,876,Neutral,none,Neutral
+362,The amount of oil money in this trophy...,2023-06-10 22:05:40,76,Neutral,none,Angry
+363,We played with heart. That's all I ask for. #Inter,2023-06-10 22:05:50,287,Side B,none,Happy
+364,"Inter's three-man defense of Acerbi, Bastoni, and Darmian were mostly excellent aside from the early lapse. They dealt with Haaland's physicality well and played out from the back under intense pressure. They can hold their heads high. #Inter",2023-06-10 22:05:50,654,Side B,none,Happy
+365,Seeing 'HAAAAALAND' tweets everywhere. Love it. #MCFC,2023-06-10 22:06:00,456,Side A,none,Happy
+366,That post from Dzeko... so close. #Inter,2023-06-10 22:06:15,321,Side B,none,Angry
+367,Watching the highlights already. That Haaland goal was ruthless.,2023-06-10 22:06:30,222,Side A,none,Happy
+368,"Respect from a Liverpool fan. Well done, City. #Respect",2023-06-10 22:07:05,654,Side A,none,Happy
+369,Just saw the Haaland goal again. What a finish.,2023-06-10 22:07:10,432,Side A,none,Happy
+370,Need a new striker in the summer. #Inter,2023-06-10 22:07:30,189,Side B,none,Neutral
+371,Pep's speech is gonna make me cry again.,2023-06-10 22:07:50,198,Side A,none,Nervous
+372,"Silva, Dias, Rodri... the whole team was immense.",2023-06-10 22:08:00,198,Side A,none,Happy
+373,Need to invest in a striker this summer. #Inter,2023-06-10 22:08:00,189,Side B,none,Neutral
+374,The treble. Still sinking in. #MCFC,2023-06-10 22:08:30,543,Side A,none,Happy
+375,Haaland: 'This is for the fans.' What a guy. #MCFC,2023-06-10 22:09:10,467,Side A,none,Happy
+376,What a night. What a team. #MCFC,2023-06-10 22:09:20,432,Side A,none,Happy
+377,I've lost my voice from screaming.,2023-06-10 22:09:30,167,Neutral,none,Nervous
+378,City fans everywhere! #MCFC,2023-06-10 22:09:40,333,Side A,none,Happy
+379,"From the Etihad to Istanbul, we are everywhere! #MCFC",2023-06-10 22:10:00,333,Side A,none,Happy
+380,Changing my profile pic to the trophy lift. #MCFC,2023-06-10 22:10:10,234,Side A,none,Happy
+381,Making the final is progress. #Inter,2023-06-10 22:10:30,222,Side B,none,Happy
+382,The amount of memes about Lautaro's miss 😂,2023-06-10 22:10:40,789,Neutral,none,Neutral
+383,That Lautaro miss will haunt my dreams.,2023-06-10 22:10:50,299,Side B,none,Angry
+384,The squad photo is everything. #MCFC,2023-06-10 22:11:00,345,Side A,none,Happy
+385,At least we made the final. Progress. #Inter,2023-06-10 22:11:00,222,Side B,none,Happy
+386,"I'm not crying, you're crying! #MCFC",2023-06-10 22:11:45,345,Side A,none,Neutral
+387,The city of Manchester is blue! 🔵,2023-06-10 22:12:00,345,Side A,none,Happy
+388,That shot off the post will be in every 'unlucky moments' video forever. #Inter,2023-06-10 22:12:20,321,Side B,none,Angry
+389,Ordering the UCL winners kit right now! #MCFC,2023-06-10 22:12:30,198,Side A,none,Happy
+390,"The debate around the 'oil money' tag will rage on, but in this moment, just appreciate the football. Appreciate the coaching, the passing, the tackling, the drama. This was a night for the purists and the neutrals alike. #UCLFinal",2023-06-10 22:12:30,821,Neutral,none,Happy
+391,"I'm not crying, you're crying. #MCFC",2023-06-10 22:12:50,345,Side A,none,Neutral
+392,No one can question our passion now. #MCFC,2023-06-10 22:13:20,321,Side A,none,Happy
+393,Congrats to City fans from a United fan. Deserved win.,2023-06-10 22:13:45,876,Side A,none,Happy
+394,"City fans, enjoy it. You deserve it. From a Liverpool fan.",2023-06-10 22:14:00,654,Side A,none,Happy
+395,"Inter, you were worthy opponents. #Respect",2023-06-10 22:14:15,456,Side B,none,Happy
+396,Focus on Serie A next year. #Inter,2023-06-10 22:14:45,143,Side B,none,Neutral
+397,Focus on the league next year. #Inter,2023-06-10 22:15:00,143,Side B,none,Neutral
+398,A treble is insane. What an achievement.,2023-06-10 22:15:20,543,Side A,none,Happy
+399,The treble. Still can't believe it. #MCFC,2023-06-10 22:15:30,543,Side A,none,Happy
+400,"Watching the players celebrate with their families on the pitch is my favorite part. Seeing Haaland with his dad, who probably dreamed of this moment for his son years ago. It's a beautiful, human side to the glitz and glamour. #UCLFinal",2023-06-10 22:15:40,2109,Neutral,none,Happy
+401,The offside trap for the goal was a coaching masterpiece. #MCFC,2023-06-10 22:15:40,234,Side A,none,Happy
+402,The pitch invader was the highlight for me 😂,2023-06-10 22:16:10,411,Neutral,none,Neutral
+403,I don't want this season to end. #MCFC,2023-06-10 22:16:30,187,Side A,none,Nervous
+404,What a season. What a night. What a team. 🔵,2023-06-10 22:17:00,432,Side A,none,Happy
+405,Thank you for a great season. #Inter,2023-06-10 22:17:10,312,Side B,none,Happy
+406,Pep crying got me crying too. #MCFC,2023-06-10 22:17:20,765,Side A,none,Nervous
+407,Post-match interviews starting.,2023-06-10 22:17:30,33,Neutral,none,Neutral
+408,So much history made tonight. #MCFC,2023-06-10 22:17:45,165,Side A,none,Happy
+409,Pep's crying got me crying. #MCFC,2023-06-10 22:18:00,765,Side A,none,Nervous
+410,Pep crying. You love to see it.,2023-06-10 22:18:15,654,Side A,none,Happy
+411,Time to change my social media banners. #UCLFinal,2023-06-10 22:18:30,156,Neutral,none,Neutral
+412,"Thanks for a great season, boys. #Inter",2023-06-10 22:18:40,312,Side B,none,Happy
+413,Pitch invaler was the real MVP 😂,2023-06-10 22:18:50,987,Neutral,none,Neutral
+414,"Pep Guardiola's post-match interview was pure emotion. The man who is often a tactical robot was overcome with feeling. This trophy meant everything to him, to finally do it with this City team. A weight off his shoulders. #MCFC",2023-06-10 22:18:50,1765,Side A,none,Nervous
+415,"Goodnight, everyone. A perfect football night. #UCLFinal",2023-06-10 22:19:00,278,Neutral,none,Neutral
+416,The pitch invaler was the highlight of the match let's be real 😂,2023-06-10 22:19:20,876,Neutral,none,Neutral
+417,Haaland: 'This is why I came here.',2023-06-10 22:19:40,522,Side A,none,Happy
+418,Milan is still proud. #ForzaInter,2023-06-10 22:19:50,256,Side B,none,Happy
+419,The winning squad photo is iconic.,2023-06-10 22:20:00,287,Side A,none,Happy
+420,"The respect between the two sets of players at the end was heartwarming to see. No bitterness, just mutual appreciation after a brutal battle. Martinez consoling his teammates and then congratulating City players shows true class. #UCLFinal",2023-06-10 22:20:10,1432,Neutral,none,Happy
+421,The city of Milan is still proud. #ForzaInter,2023-06-10 22:20:30,256,Side B,none,Happy
+422,The long offseason begins... #MCFC,2023-06-10 22:20:45,199,Side A,none,Neutral
+423,Already seen 3 fights outside the pub. Calm down lads.,2023-06-10 22:21:00,123,Neutral,none,Neutral
+424,Voice is gone. Heart is full. #MCFC,2023-06-10 22:21:30,398,Side A,none,Nervous
+425,Already pre-ordering the champions league winner's shirt.,2023-06-10 22:21:40,145,Side A,none,Happy
+426,My voice is gone. My heart is full. #MCFC,2023-06-10 22:22:00,467,Side A,none,Nervous
+427,"The statistic that City had less possession than their opponent in a final is mind-boggling. It shows they can win in different ways. They can dominate the ball, but they can also dig deep, defend, and suffer together. A complete team. #MCFC",2023-06-10 22:22:00,1124,Side A,none,Happy
+428,Where can I buy the champions kit?,2023-06-10 22:22:50,67,Neutral,none,Neutral
+429,No one can question our mentality now. #MCFC,2023-06-10 22:23:10,276,Side A,none,Happy
+430,This calls for a all-nighter.,2023-06-10 22:24:00,88,Neutral,none,Nervous
+431,We will be back for revenge. #Inter,2023-06-10 22:24:10,199,Side B,none,Excited
+432,Need that trophy lift as my wallpaper. #MCFC,2023-06-10 22:24:30,222,Side A,none,Happy
+433,"Inter, hold your heads high. You made us sweat. #Respect",2023-06-10 22:24:50,398,Side B,none,Happy
+434,I need to frame a picture of that trophy lift.,2023-06-10 22:25:00,222,Side A,none,Happy
+435,"Post-match analysis is already in full swing. The pundits are rightly praising Rodri as the MOTM. He was imperious. Broke up play, distributed the ball calmly, and was the steady heartbeat of City's performance throughout. A colossal player. #MCFC",2023-06-10 22:25:00,987,Side A,none,Happy
+436,The amount of memes from this game will be legendary.,2023-06-10 22:25:30,145,Neutral,none,Neutral
+437,We'll get our revenge. #Inter,2023-06-10 22:25:40,199,Side B,none,Excited
+438,The offside trap on the goal was perfectly executed. #MCFC,2023-06-10 22:26:20,187,Side A,none,Happy
+439,Grealish's celebration with the fans 😍,2023-06-10 22:26:40,567,Side A,none,Happy
+440,Can we play the final again tomorrow? I don't want it to end.,2023-06-10 22:28:10,98,Side A,none,Nervous
+441,Can we play the Community Shield tomorrow? I need more. 😂,2023-06-10 22:28:30,165,Side A,none,Neutral
+442,Logging off. Too painful. #Inter,2023-06-10 22:28:50,167,Side B,none,Angry
+443,What a season. Unforgettable. #MCFC,2023-06-10 22:29:40,199,Side A,none,Happy
+444,"Well, that's a wrap on the football season. It's been a good one.",2023-06-10 22:30:00,201,Neutral,none,Neutral
+445,Time to log off. Too sad. #Inter,2023-06-10 22:30:00,167,Side B,none,Angry
+446,The amount of history made tonight...,2023-06-10 22:30:10,143,Neutral,none,Happy
+447,"The treble is complete. Premier League, FA Cup, Champions League. It's a feat only achieved by one other English team. Whatever you think of them, you have to respect the sheer, relentless dominance of this achievement. Historic. #MCFC",2023-06-10 22:30:30,2765,Side A,none,Happy
+448,What a journey this season. Incredible. #MCFC,2023-06-10 22:31:00,199,Side A,none,Happy
+449,Now the transfer rumors begin! Mbappe to City? 😉,2023-06-10 22:31:20,321,Side A,none,Neutral
+450,"Good night, football. That was special. #UCLFinal",2023-06-10 22:32:00,231,Neutral,none,Neutral
+451,"Thanks for a great season, everyone. #UCLFinal",2023-06-10 22:33:00,187,Neutral,none,Happy
+452,Already looking forward to next season. #ForzaInter,2023-06-10 22:33:30,145,Side B,none,Happy
+453,"And now we enter the long, dark void of the offseason...",2023-06-10 22:34:00,176,Neutral,none,Angry
+454,Highlights are on YouTube already. That was fast.,2023-06-10 22:34:50,76,Neutral,none,Neutral
+455,Already excited for next season. #ForzaInter,2023-06-10 22:35:00,145,Side B,none,Happy
+456,"Good night, tweeps. Dream of trophies. 🏆",2023-06-10 22:36:00,112,Neutral,none,Happy
+457,"And now, the offseason depression sets in...",2023-06-10 22:38:10,455,Neutral,none,Angry
+458,The sun will rise. Forza Inter forever. ❤️🖤,2023-06-10 22:38:40,231,Side B,none,Happy
+459,"Already seeing the 'Lautaro Miss' memes popping up online. It's brutal, but it comes with the territory. I just hope he has the mental strength to get over this. He's a world-class striker who had a world-class nightmare. #Inter",2023-06-10 22:40:00,654,Side B,none,Angry
+460,The sun will rise again. Forza Inter sempre. ❤️🖤,2023-06-10 22:40:00,231,Side B,none,Happy
+461,"Just rewatched the build-up to the Haaland goal. It wasn't just De Bruyne. The move started with Rodri winning a tackle in our own half, a simple pass to Gundogan who turned and spotted the run. It was a team goal disguised as a moment of individual brilliance. #MCFC",2023-06-10 22:40:15,567,Side A,none,Happy
+462,"The journey to this point for Man City fans must be surreal. From the days of Stuart Pearce and relegation battles to this. The ultimate glory. Enjoy it, blues. Your club has reached the pinnacle of the footballing world. #MCFC",2023-06-10 22:50:00,1132,Side A,none,Happy
+463,"The amount of Inter fans still in the stands, singing their hearts out despite the defeat, is what true support is about. They are proud of their team. This wasn't a humiliation; it was a narrow, brave defeat. #ForzaInter",2023-06-10 23:00:15,1898,Side B,none,Happy
+464,"For Inter, this has to be a foundation, not a ceiling. They proved they can mix it with the very best. With a few smart additions in the summer, they can be back here again. The future is bright. #ForzaInter",2023-06-10 23:05:00,876,Side B,none,Happy
+465,"I need about a week to decompress from that. The emotional rollercoaster of a Champions League final is unlike anything else in sport. The highest highs and the lowest lows, all within 90 minutes. I'm exhausted. #UCLFinal",2023-06-10 23:10:45,765,Neutral,none,Nervous
+466,The sight of thousands of blue flares igniting across Manchester on the live feeds is something to behold. The city is alive with celebration. A night that will be remembered for generations. #MCFC,2023-06-10 23:20:00,1450,Side A,none,Happy
+467,"I've just spent 10 minutes trying to explain the significance of the treble to my American roommate. I think he finally gets it after I compared it to winning the Super Bowl, the World Series, and the NBA Finals all in one year. #MCFC",2023-06-10 23:30:00,987,Side A,none,Happy
+468,"As the celebrations begin in earnest, you have to wonder where this City team goes from here. They've reached the summit. The challenge now is to stay there. The era of City's dominance might just be beginning. #MCFC",2023-06-10 23:45:00,1001,Side A,none,Happy
+469,"Finally turning off the TV. The images are burned into my memory: Haaland's early strike, Lautaro's anguished face, Dzeko's header kissing the post, Rodri's tears, and the confetti falling blue. This is more than a game; it's a collection of moments that tell a story of triumph, heartbreak, and ultimately, footballing history. Goodnight from a truly historic day. #UCLFinal #MCFC #ForzaInter",2023-06-11 00:30:00,2543,Neutral,none,Happy
+470,The Champions League anthem never fails to give me chills. This is what football is all about. #UCLFinal,2023-06-10 19:44:30,422,Neutral,none,Happy
+471,Can't believe I'm finally watching my team in a Champions League final. Pinch me. #ForzaInter,2023-06-10 19:44:35,289,Side B,none,Excited
+472,The tension in the stadium is absolutely palpable. You can feel it through the screen. #UCLFinal,2023-06-10 19:44:40,501,Neutral,none,Nervous
+473,Pep Guardiola looks so focused on the touchline. You know he's running through every scenario. #MCFC,2023-06-10 19:44:45,455,Side A,none,Happy
+474,Ederson's calmness before a big game is a weapon in itself. Ice in his veins. #MCFC,2023-06-10 19:44:50,398,Side A,none,Happy
+475,Let's go City! Bring it home! The treble is on! Come on! #MCFC #UCLFinal,2023-06-10 19:44:55,678,Side A,none,Excited
+476,"Inter's midfield of Barella, Brozovic and Calhanoglu is going to be the key battle tonight. #ForzaInter",2023-06-10 19:41:50,345,Side B,none,Neutral
+477,The camera just panning across the faces of the fans... some are already in tears. What a moment.,2023-06-10 19:42:10,287,Neutral,none,Nervous
+478,Haaland vs Bastoni and Acerbi. That is the matchup I cannot wait to see. Strength vs strength. #UCLFinal,2023-06-10 19:45:20,543,Neutral,none,Excited
+479,The pitch looks absolutely pristine. A perfect stage for a final. #UCLFinal,2023-06-10 19:45:30,231,Neutral,none,Happy
+480,Hoping for a great game with no injuries and no referee controversy. Let the football do the talking. #UCLFinal,2023-06-10 19:45:40,189,Neutral,none,Happy
+481,Remembering the last time Inter won this. Zanetti lifting the trophy. Hoping for that feeling again. #ForzaInter,2023-06-10 19:45:50,415,Side B,none,Happy
+482,KDB looks locked in. Please be on it tonight. #MCFC,2023-06-10 19:44:00,562,Side A,none,Happy
+483,Lautaro Martinez's movement will cause City's defense so many problems. His runs are incredible. #ForzaInter,2023-06-10 19:42:10,376,Side B,none,Neutral
+484,The noise from the Inter end is incredible. Their fans are always so passionate. #UCLFinal,2023-06-10 19:40:20,298,Side B,none,Happy
+485,This is it. The biggest game in club football. All the buildup comes down to this. #UCLFinal,2023-06-10 19:41:30,487,Neutral,none,Excited
+486,Rodri is so underrated. He is the absolute engine of this City team. Controls everything. #MCFC,2023-06-10 19:40:40,421,Side A,none,Happy
+487,Come on Inter! Do it for the legend Zanetti! Black and blue blood! ,2023-06-10 19:44:50,333,Side B,none,Excited
+488,Nervous doesn't even begin to describe it. My heart is already racing. #MCFC,2023-06-10 19:44:00,612,Side A,none,Nervous
+489,The City fans have been incredible all week in Istanbul. Taking over the city with sky blue. #MCFC,2023-06-10 19:30:15,287,Side A,none,Happy
+490,Seeing so many legends in the crowd. Did I just spot Micah Richards and Francesco Totti? #UCLFinal,2023-06-10 19:31:40,455,Neutral,none,Happy
+491,Pep's team selection will be fascinating. Will he go with Bernardo or Mahrez on the right? #MCFC,2023-06-10 19:32:50,321,Side A,none,Neutral
+492,The Inter ultras have already been singing for an hour non-stop. Incredible dedication. #ForzaInter,2023-06-10 19:33:20,278,Side B,none,Happy
+493,This final is a clash of philosophies. Pep's possession vs Inzaghi's organized defensive block. Can't wait. #UCLFinal,2023-06-10 19:34:00,512,Neutral,none,Neutral
+494,Remember that goal from Rodri against Aston Villa? We need that guy today. A big game player. #MCFC,2023-06-10 19:34:30,445,Side A,none,Happy
+495,The weather in Istanbul is perfect for football. Not too hot! Ideal conditions. #UCLFinal,2023-06-10 19:35:10,198,Neutral,none,Neutral
+496,My dad supported Inter his whole life. Wish he could have seen this. Watching for you tonight. #ForzaInter,2023-06-10 19:35:45,687,Side B,none,Nervous
+497,Ederson's long passing could be a secret weapon against Inter's press. Launch it for Haaland to chase. #MCFC,2023-06-10 19:36:20,332,Side A,none,Neutral
+498,The history of this competition... Inter's back-to-back wins in the 60s. Football heritage. #UCLFinal,2023-06-10 19:37:00,276,Neutral,none,Happy
+499,So many friends supporting different teams have messaged good luck. This is what this competition does. Amazing. #MCFC,2023-06-10 19:37:40,421,Side A,none,Happy
+500,Dumfries and Dimarco on the wings are so dangerous. Their attacking runs will test Walker and Ake. #ForzaInter,2023-06-10 19:38:15,389,Side B,none,Neutral
+501,The pressure is all on City. Everyone expects them to win. Inter can play with freedom as underdogs. #UCLFinal,2023-06-10 19:38:50,554,Neutral,none,Neutral
+502,I've got my lucky shirt on; same one I wore for the semi-final. Don't let me down lads! #MCFC,2023-06-10 19:39:25,233,Side A,none,Excited
+503,The tifos are going up in the stands. This visual spectacle is part of what makes European finals special. #UCLFinal,2023-06-10 19:40:00,467,Neutral,none,Happy
+504,Gundogan's leadership in midfield will be crucial. His experience in these big moments is vital. #MCFC,2023-06-10 19:40:30,398,Side A,none,Neutral
+505,Inter's three-at-the-back system is so well drilled. They suffocate teams. City's movement must be sharp. #ForzaInter,2023-06-10 19:41:10,345,Side B,none,Neutral
+506,seeing both sets of fans mingling and singing together before the game is what it's all about.,2023-06-10 19:41:50,289,Neutral,none,Happy
+508,This is the culmination of a project. Years of building to this exact moment. Let's make it count. #UCLFinal,2023-06-10 19:43:00,501,Neutral,none,Happy
+509,The refereeing team for tonight is experienced. Let's hope for a clean game with no drama. #UCLFinal,2023-06-10 19:44:10,245,Neutral,none,Happy
